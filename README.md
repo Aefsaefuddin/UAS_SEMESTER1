@@ -1,32 +1,14 @@
-# UAS_Semester1
+# ![](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg) **PROGRAM DATA MAHASISWA PYTHON**
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <table border="1">
-        <tr>
-            <th> Nama</th>
-            <th>NIM</th>
-            <th>Kelas</th>
-        </tr>
-        <tr>
-            <td>Aef Saefuddin</td>
-            <td>312110521</td>
-            <td>TI.21.C5</td>
-        </tr>
-    </table>
-</body>
-</html>
+![nama](https://img.shields.io/badge/nama-Aef%20Saefuddin-yellow.svg)
+![nim](https://img.shields.io/badge/nim-312110521-blue.svg)
+![kelas](https://img.shields.io/badge/kelas-TI.21.C5-white.svg)
 
-## SOAL UJIAN
+## **SOAL UJIAN**
 
 ![100](ss/soal-uas.png)
 
-## Struktur Package & Module
+## **Struktur Package & Module**
 
 ![102](ss/modul.png)
 
@@ -252,4 +234,4 @@ while True:
 
 ![106](ss/keluar.png)
 
-## TERIMA KASIH
+>**TERIMA KASIH**
