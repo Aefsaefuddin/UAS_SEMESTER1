@@ -1,8 +1,8 @@
 # ![](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg) **PROGRAM DATA MAHASISWA PYTHON**
 
-![nama](https://img.shields.io/badge/nama-Aef%20Saefuddin-yellow.svg)
-![nim](https://img.shields.io/badge/nim-312110521-blue.svg)
-![kelas](https://img.shields.io/badge/kelas-TI.21.C5-white.svg)
+![nama](https://img.shields.io/badge/Nama-Aef%20Saefuddin-yellow.svg)
+![nim](https://img.shields.io/badge/Nim-312110521-blue.svg)
+![kelas](https://img.shields.io/badge/Kelas-TI.21.C5-white.svg)
 
 ## **SOAL UJIAN**
 
